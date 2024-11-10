@@ -2,8 +2,7 @@
 - 👀 I’m interested in learning , coding and sharing knowledge
 - 🌱 I’m currently learning Data Science and Analytics
 - 💞️ I’m looking to collaborate on exploring the power of algorithms and predictive modelling to solve real-world problems
-- 📫 How to reach me
-- [henryrodney08@gmail.com]()
+- 📫 How to reach me [henryrodney08@gmail.com]()
 - ⚡ Fun fact: No risk , no reward
   
 
