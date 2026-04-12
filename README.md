@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henry Rodney</h1>
-<h3 align="center">Data Science & Analytics Student | Aspiring Java Mobile Developer</h3>
+<h3 align="center">Data Science & Analytics Student </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Enthusiast;Machine+Learning+Learner;Problem+Solver&center=true&width=500&height=45">
@@ -19,7 +19,6 @@
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
 
 ### 📊 Data Science & Tools
