@@ -35,7 +35,6 @@
 [![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)](https://git-scm.com/docs)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://docs.github.com/)
 [![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)](https://support.microsoft.com/excel)
-
 ---
 
 ## 📈 GitHub Stats
