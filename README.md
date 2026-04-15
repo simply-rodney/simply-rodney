@@ -18,19 +18,23 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
+[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)](https://docs.python.org/3/)
+[![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)](https://www.w3schools.com/sql/)
+
+---
 
 ### 📊 Data Science & Tools
-![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-yellow?style=for-the-badge&logo=scikit-learn)
+[![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/docs/)
+[![NumPy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy)](https://numpy.org/doc/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)](https://matplotlib.org/stable/tutorials/index.html)
+[![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-yellow?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org/stable/)
+
+---
 
 ### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
+[![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)](https://git-scm.com/docs)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://docs.github.com/)
+[![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)](https://support.microsoft.com/excel)
 
 ---
 
